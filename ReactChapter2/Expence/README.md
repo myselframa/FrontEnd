@@ -12,7 +12,7 @@ React is a Declarative type of programming
 
 Rule #1 and #2 examples
 
-HTML==> <input maxlength="5/> ----> JSX===> <input maxLength={5}/>
+HTML==> <input maxlength="5/> (----> JSX===> <input maxLength={5}/>)
 
 Rule #3
 
