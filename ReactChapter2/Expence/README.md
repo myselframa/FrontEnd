@@ -7,12 +7,12 @@ React is a Declarative type of programming
 1. All prop names follow camelcase
 2. Number attribute use curly braces
 3. Boolean 'true' can be written with just the property name.'False' should be written with curly braces
-   4)The 'class' attribute is written as 'className'
-   5)In-line styles are provided as objects
+4. The 'class' attribute is written as 'className'
+5. In-line styles are provided as objects
 
 Rule #1 and #2 examples
 
-HTML==> <input maxlength="5/> ----> JSX===> <input maxLength={5}/>
+HTML==> <input maxlength="5/> (----> JSX===> <input maxLength={5}/>)
 
 Rule #3
 
